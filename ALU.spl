@@ -1,0 +1,16 @@
+[Inputs]
+Clk
+CE_NF
+CE_OVF
+CE_ZF
+CE_CF
+=RdData1[15:0]=
+=RdData2[15:0]=
+=ALUOP[2:0]=
+[Outputs]
+NF
+OVF
+ZF
+CF
+=Y[15:0]=
+[BiDir]
